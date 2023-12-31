@@ -1,5 +1,9 @@
 # Gradient-Boosting-Classifier-from-Scratch
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Gradient_Boosting_Classifier.ipynb)
+
+:star:**Please star the repository if you happen to like the project**
+
 This repository contains the solution to the attached problem statement. The ipynb file contains an implementation of Gradient Boosting Classifier from scratch.The implementation is performed using the MNIST dataset.
 
 **About Gradient Boosting**:
